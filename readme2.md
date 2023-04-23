@@ -77,4 +77,4 @@ import django_graphene
 
 ### Look here:
 - [x] Did you perform activity-1?
-- [] Did you perform ac-2? 
+- [ ] Did you perform ac-2? 
