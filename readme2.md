@@ -76,5 +76,5 @@ import django_graphene
 [Obsidian](http://obsidian.md)
 
 ### Look here:
-1. Did you perform activity-1? [x]
-1. Did you perform ac-2? [ ]
+- [x] Did you perform activity-1?
+- [] Did you perform ac-2? 
