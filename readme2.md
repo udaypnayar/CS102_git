@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### (DO NOT SCAM me,)
 
 # CS102_git
@@ -6,11 +7,15 @@
 **This is my first markdown trial.**
 
 
+=======
+#SCAM ME
+>>>>>>> 95b62a9 (Please COmmit Me on 30th Apr)
 
 F me
 F you
 Psst to you
 
+<<<<<<< HEAD
 
 
 
@@ -78,3 +83,8 @@ import django_graphene
 ### Look here:
 1. [x] Did you perform activity-1?
 2. [ ] Did you perform ac-2? 
+=======
+f 
+Go away
+Wanna play games?
+>>>>>>> 95b62a9 (Please COmmit Me on 30th Apr)
